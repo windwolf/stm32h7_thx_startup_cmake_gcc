@@ -1,0 +1,6 @@
+[submodule "libs/threadx"]
+	path = libs/threadx
+	url = https://github.com/azure-rtos/threadx.git
+[submodule "Src/drivers"]
+	path = Src/drivers
+	url = ../driver_collection.git

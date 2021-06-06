@@ -1,0 +1,7 @@
+device ${JLINK_DEVICE}
+h
+loadfile ${HEX_TARGET}
+verifybin ${HEX_TARGET}
+r
+g
+qc
