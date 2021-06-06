@@ -3,4 +3,4 @@
 	url = https://github.com/azure-rtos/threadx.git
 [submodule "Src/drivers"]
 	path = Src/drivers
-	url = ../driver_collection.git
+	url = https://github.com/windwolf/driver_collection.git
