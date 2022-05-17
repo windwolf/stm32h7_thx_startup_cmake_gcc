@@ -63,6 +63,10 @@
         "memory_resource": "cpp",
         "memory": "cpp",
         "stdexcept": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "segger_rtt.h": "c",
+        "mem_layout.h": "c",
+        "ringbuffer.h": "c",
+        "port.h": "c"
     }
 }
