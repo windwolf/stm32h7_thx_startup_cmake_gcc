@@ -67,6 +67,8 @@
         "segger_rtt.h": "c",
         "mem_layout.h": "c",
         "ringbuffer.h": "c",
-        "port.h": "c"
+        "port.h": "c",
+        "bsp_i2c.h": "c",
+        "stm32h7xx_ll_dma.h": "c"
     }
 }
